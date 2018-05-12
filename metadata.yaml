@@ -1,0 +1,29 @@
+_repo: Why-Lincoln-Laughed_38423
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38423-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Conwell, Russell H.
+    alias: Conwell, Russell Herman
+    birthdate: 1843
+    deathdate: 1925
+    gutenberg_agent_id: '203'
+    url: http://www.gutenberg.org/2009/agents/203
+    wikipedia: http://en.wikipedia.org/wiki/Russell_Conwell
+description: ''
+gutenberg_issued: '2011-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38423'
+  lccn: '22003088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Anecdotes'
+- !lcc 'E456'
+title: Why Lincoln Laughed
+url: http://www.gutenberg.org/ebooks/38423
